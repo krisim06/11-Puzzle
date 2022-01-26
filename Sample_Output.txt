@@ -1,0 +1,13 @@
+5 6 0 7
+8 9 10 11 
+2 3 4 1
+
+5 9 6 7
+8 3 0 11
+2 4 10 1
+
+1.0                  W value
+5                    depth level d of the shallowest goal node
+N                    Total number of nodes N generagted in your tree
+L D D R U            Solution of a sequence of actions
+f f f f f f          fn values of the nodes along the solution path from the root node to the goal node.
